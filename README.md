@@ -9,8 +9,8 @@ I'm a Michał from Poland. I am qualified construction manager😆. Now you may 
   - [Flask Scrape App](https://github.com/owsiej/Developer-Scrape) - same concept as higher but this time everything was put in REST API, a bit outdated for today
   - [Mortgage register scrapper](https://github.com/owsiej/ksiegiScrape) - another scrapper😜, but this one uses very popular library called `scrapy-splash`
 - 🐎 **Then...**: During an economic downturn💩, particularly within the IT sector, I pursued professional development by enrolling in a postgraduate JavaScript Developer program at my local university of technology, which I am about to finish with highest possible degree🎓. Those studies equipped me with the skills to work effectively with technologies like **React, Angular, Node** and motivated me to expand my knowledge even more, for example with **NestJs**. Here are some of my projects:
-  - [Snake Game App](https://github.com/owsiej/snake-game-angular) - popular snake game coded in **Angular** as part of my postgraduate studies final paper
-  - [Score API](https://github.com/owsiej/scores-api) - my personal project to work as backend for snake game
+  - [Snake Game App](https://github.com/owsiej/snake-game-angular) - popular snake game coded in **Angular** as part of my postgraduate studies final paper, **🚀DEPLOYED ON: https://snake-game-project-e8b0d.web.app**
+  - [Score API](https://github.com/owsiej/scores-api) - my personal project to work as backend for snake game, **🚀DEPLOYED ON: https://europe-west1-snake-game-project-e8b0d.cloudfunctions.net/api/docs**
   - [Simple shop template](https://github.com/owsiej/shop-react) - coded in **React**, also final paper from postgraduate studies
   - [Advert CRUD API](https://github.com/owsiej/advert-api) - another final paper from postgraduate studies, complete CRUD API in **Node**, `Express`
 - 🔭 **I'm currently working on** adjusting [Snake Game App](https://github.com/owsiej/snake-game-angular) to new [backend](https://github.com/owsiej/scores-api) and frontend for [Advert CRUD API](https://github.com/owsiej/advert-api).
